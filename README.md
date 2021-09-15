@@ -2,6 +2,8 @@
 
 A rich text editor for [React Admin](http://marmelab.com/react-admin), based on [TipTap](https://www.tiptap.dev/)
 
+![tiptap](https://user-images.githubusercontent.com/99944/133393239-3cc84197-a7d0-4134-84e3-26e932980c05.gif)
+
 ## Installation
 
 ```sh
