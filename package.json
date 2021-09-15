@@ -8,6 +8,9 @@
 	"workspaces": [
 		"packages/*"
 	],
+	"repository": "marmelab/ra-richtext-tiptap",
+    "homepage": "https://github.com/marmelab/ra-richtext-tiptap#readme",
+    "bugs": "https://github.com/marmelab/ra-richtext-tiptap/issues",
 	"devDependencies": {
 		"@babel/core": "^7.15.5",
 		"@storybook/addon-actions": "^6.3.8",
